@@ -27,11 +27,15 @@ weighted avg       0.37      0.14      0.15        49
 ## Hyperparameters
 
 I chose a lower learning rate for smoother adjustment. 
+
 I didn't want to overfit the model so I used a lower number of training epochs.
+
 I used a lower weight decay in order to keep from overfitting.
 
 ## Links
 
 [![A screenshot of my Sentiment Analysis Model on HuggingFace](/images/MyHuggingFaceModel.PNG)](https://huggingface.co/KelseyHahmo/Yelp-Review-Sentiment-Analysis)
+
 [KelseyHahmo/Yelp-Review-Sentiment-Analysis](https://huggingface.co/KelseyHahmo/Yelp-Review-Sentiment-Analysis)
+
 [YelpReviewFull Dataset](https://huggingface.co/datasets/Yelp/yelp_review_full)

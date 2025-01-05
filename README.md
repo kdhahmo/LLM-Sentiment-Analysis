@@ -3,6 +3,13 @@
 ## Project Task
 
 A sentiment analysis tool that determines the rating of a yelp review based on the review text.
+
+### Process
+
+The [1_preprocessing_and_2_representation notebook](/notebooks/1_preprocessing_and_2_representation.ipynb) has my perparation of the data for use in the Large Language Models.
+The [3_pre_trained_model notebook](/notebooks/3_pre_trained_model.ipynb) has the initial results from the chosen pre-trained model.
+The [4_optimization notebook](/notebooks/4_optimization.ipynb) has the optimizations I made to the chosen pre-trained model.
+
 ## Dataset
 
 I used the [YelpReviewFull](https://huggingface.co/datasets/Yelp/yelp_review_full) dataset, which has english reviews from Yelp extracted from the Yelp Dataset Challenge 2015 data.
